@@ -269,3 +269,5 @@ END;
 /
 ```
 
+![output in sql command line](/Assets/IF%20ELSE%20IF.png)
+
